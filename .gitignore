@@ -1,0 +1,20 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# Node (future)
+
